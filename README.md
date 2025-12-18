@@ -1,5 +1,17 @@
 # PERSONAL-PORTFOLIO-WEBPAGE
 
+COMPANY: CODTECH IT SOLUTION 
+
+NAME: Kartik Pundalik Gawade 
+
+INTERN ID: CT04DR2452
+
+DOMAIN: FRONT END DEVELOPMENT 
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 # 🌐 Personal Portfolio Website – Kartik Gawade
 
 ## 📌 Project Overview
