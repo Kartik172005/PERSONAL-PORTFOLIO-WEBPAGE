@@ -98,6 +98,6 @@ By building this project, I learned:
 
 - 📧 Email: gawadekartik2005@gmail.com
 
-- 🐙 GitHub: github.com/Kartik172005
+- 🐙 GitHub: https://github.com/Kartik172005
 
 - 🔗 LinkedIn: linkedin.com/in/kartik-gawade-s172005
