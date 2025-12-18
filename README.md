@@ -84,3 +84,20 @@ This portfolio website reflects my learning progress and highlights the projects
 1. Clone the repository:
    ```bash
    git clone https://github.com/Kartik172005/your-repository-name.git
+
+## 🎯 Learning Outcome
+
+By building this project, I learned:
+- How to structure a complete webpage using HTML
+- How to design layouts using CSS Grid and Flexbox
+- Responsive design using media queries
+- UI consistency and clean code practices
+- Hosting and managing projects on GitHub
+
+## 📬 Contact & Links
+
+- 📧 Email: gawadekartik2005@gmail.com
+
+- 🐙 GitHub: github.com/Kartik172005
+
+- 🔗 LinkedIn: linkedin.com/in/kartik-gawade-s172005
