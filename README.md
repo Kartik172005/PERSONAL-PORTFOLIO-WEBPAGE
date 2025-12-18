@@ -113,3 +113,7 @@ By building this project, I learned:
 - GitHub: https://github.com/Kartik172005
 
 - LinkedIn: https://www.linkedin.com/in/kartik-gawade-s172005/
+
+## Output
+
+<img width="1898" height="842" alt="Image" src="https://github.com/user-attachments/assets/489c1d58-5dbc-4bbe-9a26-210fe89001dc" />
